@@ -1,4 +1,4 @@
-# Ai-Enchanced SIEM Detection & Alert Enrichment Pipeline
+# SIEM Detection & Ai-Enchanced Alert Enrichment Pipeline
 
 ## Objective
 
